@@ -33,7 +33,7 @@ services:
       DJANGO_SUPERUSER_USERNAME: root
       DJANGO_SUPERUSER_EMAIL: root@example.com
       DJANGO_SUPERUSER_PASSWORD: root
-      COVERALLS_REPO_TOKEN: 9xxO5LVBprJLJtaob9gajF1Lx2LDcrwqg
+      COVERALLS_REPO_TOKEN: 18pf7SOLohbNha8seJPuxf74jPgXbs7oP
 
   frontend:
     build: ./frontend
